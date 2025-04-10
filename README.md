@@ -1,5 +1,5 @@
-# Bike_Sales_Analysis
-Bike Store Sales and Customer Analysis : Description:
+# Comprehensive Bike Store Sales and Customer Analysis
+Description:
 This project involves the design and implementation of a relational database for a bike store, followed by extensive data analysis to uncover key business insights. The project encompasses the creation of database schemas and tables to store customer, store, staff, product, order, and sales data. Analytical queries are developed to answer crucial business questions and improve decision-making.
 
 Key Objectives:
