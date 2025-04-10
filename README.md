@@ -24,7 +24,6 @@ Co-purchase Trends: Uncover frequently co-purchased products to aid in cross-sel
 Outcomes:
 Insights into high-revenue stores, best-selling products, and key customer demographics.
 Enhanced understanding of seasonal sales trends.
-
 Recommendations for inventory management, marketing strategies, and staff allocation.
 
 This project demonstrates expertise in SQL, relational database management, and business analytics, providing a strong foundation for data-driven decision-making in retail environments.
